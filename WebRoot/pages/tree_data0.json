@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "text": "所有功能",
+    "children": [
+      {
+        "id": 11,
+        "text": "班级管理",
+        "state": "",
+        "children": [
+          {
+            "id": 111,
+            "text": "班级信息管理",
+            "attributes": "class_manage.jsp"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "text": "教师管理",
+        "state": "",
+        "children": [
+          {
+            "id": 121,
+            "text": "教师信息管理",
+            "attributes": "tea_manage.jsp"
+          },
+          {
+            "id": 122,
+            "text": "教师评价管理",
+            "attributes": "tea_evaluate.jsp"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "text": "学生管理",
+        "state": "",
+        "children": [
+          {
+            "id": 131,
+            "text": "学生信息管理",
+            "attributes": "stu_manage.jsp"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "text": "课程管理",
+        "state": "",
+        "children": [
+          {
+            "id": 141,
+            "text": "课程信息管理",
+            "attributes": "sub_manage.jsp"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "text": "test",
+        "state": "",
+        "children": [
+          {
+            "id": 141,
+            "text": "test",
+            "attributes": "test.jsp"
+          }
+        ]
+      }
+    ]
+  }
+]

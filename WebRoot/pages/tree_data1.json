@@ -1,0 +1,13 @@
+[{
+	"id":1,
+	"text":"所有功能",
+	"children":[{
+		"id":12,
+		"text":"查看学生",
+		"attributes":"view_students.jsp"
+	},{
+		"id":13,
+		"text":"收到的评价",
+		"attributes":"teacher_evaluate.jsp"
+	}]
+}]

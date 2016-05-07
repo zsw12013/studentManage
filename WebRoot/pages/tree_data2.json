@@ -1,0 +1,17 @@
+[{
+	"id":1,
+	"text":"所有功能",
+	"children":[{
+		"id":12,
+		"text":"查看个人信息",
+		"attributes":"student_info.jsp"
+	},{
+		"id":13,
+		"text":"查找老师",
+		"attributes":"student_alltea.jsp"
+	},{
+		"id":14,
+		"text":"查看课程",
+		"attributes":"student_course.jsp"
+	}]
+}]

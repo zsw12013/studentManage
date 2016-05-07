@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="studentManage"
+  id="myeclipse.1444437762160"
+  context-root="/studentManage"
+  j2ee-spec="5.0"
+  archive="studentManage.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
